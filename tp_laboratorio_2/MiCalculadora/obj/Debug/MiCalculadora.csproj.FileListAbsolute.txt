@@ -1,0 +1,28 @@
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\bin\Debug\es-AR\MiCalculadora.resources.dll
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.es-AR.resources
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\CARPETAS\2 Cuatrimestre\Laboratorio II\MiCalculadora\obj\Debug\es-AR\MiCalculadora.resources.dll
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\bin\Debug\es-AR\MiCalculadora.resources.dll
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.es-AR.resources
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Cristian.DESKTOP-9LVUU52\Desktop\tp_laboratorio_2\MiCalculadora\obj\Debug\es-AR\MiCalculadora.resources.dll
